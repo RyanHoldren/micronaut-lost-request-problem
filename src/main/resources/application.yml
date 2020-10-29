@@ -1,0 +1,7 @@
+micronaut:
+  server:
+    http-version: 2.0
+    thread-selection: AUTO
+  ssl:
+    enabled: true
+    buildSelfSigned: true
